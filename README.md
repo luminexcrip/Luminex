@@ -22,5 +22,5 @@ Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo 'LICENS
 ---
 
 **Contacto**
-Luminex Capital DWC Ltd.
+Luminex Coin
 *Iluminamos el futuro del conocimiento*
